@@ -27,8 +27,8 @@ Server
 
 ## Acknowledgements
 - This is a group project that I completed with bernardlau and chrisweilacker at Hack Reactor.
-- Each member clones one service module from Rotten Tomatoes
-- Each member creates a proxy server to combine all modules
+- Each member creates one service module
+- This proxy server communicates with all service modules to fetch information for the main movie
 
 ## Related Projects
 - Tickets & Showtimes: https://github.com/number-ape/rotten_pomodoro_tickets_showtimes
